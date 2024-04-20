@@ -5,12 +5,12 @@
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Courses",
+      "url": "/courses"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "LA",
+      "url": "/learning_agreement"
     },
     {
       "name": "Pages",
@@ -24,34 +24,18 @@
         {
           "name": "Blog",
           "url": "/blog"
-        },
-        {
-          "name": "Authors",
-          "url": "/authors"
-        },
-        {
-          "name": "Categories",
-          "url": "/categories"
-        },
-        {
-          "name": "Tags",
-          "url": "/tags"
-        },
-        {
-          "name": "404 Page",
-          "url": "/404"
         }
       ]
     }
   ],
   "footer": [
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Courses",
+      "url": "/courses"
     },
     {
-      "name": "Privacy Policy",
-      "url": "/privacy-policy"
+      "name": "LA",
+      "url": "/learning_agreement"
     }
   ]
 }

@@ -5,8 +5,8 @@ import SeoMeta from "@/partials/SeoMeta";
 import { Author } from "@/types";
 
 const Authors = () => {
-  const authorIndex: Author = getListPage("authors/_index.md");
-  const authors: Author[] = getSinglePage("authors");
+  const authorIndex: Author = getListPage("courses/_index.md");
+  const authors: Author[] = getSinglePage("courses");
   const { title, meta_title, description, image } = authorIndex.frontmatter;
   return (
     <>

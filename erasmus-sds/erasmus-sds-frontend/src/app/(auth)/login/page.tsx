@@ -1,6 +1,6 @@
 "use client";
 
-// import { CustomerError } from "@/lib/shopify/types";
+import { CustomerError } from "@/lib/types";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { ChangeEvent, FormEvent, useState } from "react";
@@ -58,6 +58,7 @@ const Login = () => {
 
   return (
     <>
+      <title>Login</title>
       <section className="section">
         <div className="container">
           <div className="row">
